@@ -12,7 +12,7 @@
 I am a Full Stack Developer from Vietnam, living in Helsinki, Finland <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">.
 - :telescope: I’m a self-taught developer, contributing to Frontend and Backend for building web applications.
 
-- :seedling: I have some knowledges about Figma and Adobe XD desgin tools.
+- :seedling: I have some knowledges and experience about UserInterface, Figma and Adobe XD desgin tools.
 
 - :zap: In my free time, I enjoy reading tech articles.
 
