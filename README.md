@@ -9,7 +9,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer from Vietnam, living in Helsinki, Finland <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">.
+I am a Front-End Focused Web Developer coming from Vietnam, living in Helsinki, Finland <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30"> and currently learning Full Stack Course.
 - :telescope: I’m a self-taught developer, contributing to Frontend and Backend for building web applications.
 
 - :seedling: I have some knowledges and experience about UserInterface, Figma and Adobe XD desgin tools.
