@@ -1,5 +1,7 @@
 <div align="center"> 
   <img src="https://media.giphy.com/media/Q87YAYsdptMDJR4r68/giphy.gif" width="200px"/>
+  
+(🌱) {🌱} [🌱]
 </div>
 
 ---
