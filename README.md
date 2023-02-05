@@ -4,6 +4,9 @@ I am a Front-End Focused Web Developer coming from Vietnam, living in Helsinki, 
 
 - :seedling: I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
 
+
+- :seedling: Through real project, I have gained valuable experience when working with clients, teammates by learning and practicing Agile Methodology. Github Kanban board, Git.
+
 - :zap: In my free time, I enjoy reading tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhh-nguyen22/)
