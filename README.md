@@ -4,7 +4,7 @@ I am a Front-End Focused Web Developer coming from Vietnam, living in Helsinki, 
 
 - :seedling: Through real project, I have gained valuable experience when working with clients, teammates by learning and implementing Agile Methodology. Github Kanban board, Git. 
 
-- :zap: I understand CI/CD pipelines and have practiced code reviewings with others. 
+- :zap: I understand CI/CD pipelines and have practiced code reviewings with others. Also knowing deployment on common platforms: Netlify, FireBase, Heroku, Github.
 
 - :seedling: I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
 
