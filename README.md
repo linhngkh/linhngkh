@@ -2,9 +2,9 @@
 I am a Front-End Focused Web Developer coming from Vietnam, living in Helsinki, Finland <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30"> and I have completed Full Stack Academy at The Short Cut Company.
 - :telescope: I’m a self-taught developer, contributing to Frontend and Backend for building web applications.
 
-- :seedling: Through real project, I have gained valuable experience when working with clients, teammates by learning and practicing Agile Methodology. Github Kanban board, Git. 
+- :seedling: Through real project, I have gained valuable experience when working with clients, teammates by learning and implementing Agile Methodology. Github Kanban board, Git. 
 
-- :zap: I understand CI/CD pipelines and practice code reviewings experience. 
+- :zap: I understand CI/CD pipelines and have practiced code reviewings with others. 
 
 - :seedling: I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
 
