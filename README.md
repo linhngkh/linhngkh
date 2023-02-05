@@ -1,8 +1,8 @@
 ### :woman_technologist: About Me :
-I am a Front-End Focused Web Developer coming from Vietnam, living in Helsinki, Finland <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30"> and currently learning Full Stack Academy at The Short Cut Company.
+I am a Front-End Focused Web Developer coming from Vietnam, living in Helsinki, Finland <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30"> and I have completed Full Stack Academy at The Short Cut Company.
 - :telescope: I’m a self-taught developer, contributing to Frontend and Backend for building web applications.
 
-- :seedling: I have some knowledges and experience about UserInterface, Figma and Adobe XD desgin tools.
+- :seedling: I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
 
 - :zap: In my free time, I enjoy reading tech articles.
 
