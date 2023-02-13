@@ -30,8 +30,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" **alt="figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="psql" alt="psql" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40">&nbsp;
-<div>
+---
   
+### 📈 GitHub Activity Graph:
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=linh-nguyenkhanh&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+
 </div>
