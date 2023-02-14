@@ -1,8 +1,8 @@
 <!--   my-icons -->
-<p align="center">
+<div align="center">
     <a href="https://github.com/linh-nguyenkhanh"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=linh-nguyenkhanh.linh-nguyenkhanh" alt="visitors"/>   
-</p>
+</div>
 
 ### :woman_technologist: About Me : I am a Front-End Focused Web Developer coming from Vietnam, living in Helsinki, Finland <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
   
