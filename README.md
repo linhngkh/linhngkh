@@ -36,7 +36,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" **alt="figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="psql" alt="psql" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40">&nbsp;
----
+
   
 ### 📈 GitHub Activity Graph:
 
