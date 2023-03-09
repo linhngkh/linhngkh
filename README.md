@@ -4,7 +4,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=linh-nguyenkhanh.linh-nguyenkhanh" alt="visitors"/>   
 </div>
 
-### :woman_technologist: About Me : I am a Front-End Focused Web Developer <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
+### :woman_technologist: About Me : I am a Junior Front-End Focused Web Developer learning Full Stack <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
   
 - :telescope: I’m a passionate developer, contributing to Frontend and Backend for building web applications and taking smooth journeys to customer experience. Besides, I have completed Full Stack Academy at The Short Cut Company. 
 - I dedicate all my times for learning and studying I.T with the hope that I can work for your company and together we can make the world different!
