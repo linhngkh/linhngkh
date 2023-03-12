@@ -4,20 +4,19 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=linh-nguyenkhanh.linh-nguyenkhanh" alt="visitors"/>   
 </div>
 
+### Hi there 👋. My name is Linh Nguyen. You can call me Lin wihout H.
+
 ### :woman_technologist: About Me : I am a Junior Front-End Focused Web Developer learning Full Stack <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
   
-- :telescope: I’m a passionate developer, contributing to Frontend and Backend for building web applications and taking smooth journeys to customer experience. Besides, I have completed Full Stack Academy at The Short Cut Company. 
-- I dedicate all my times for learning and studying I.T with the hope that I can work for your company and together we can make the world different!
+I’m a passionate developer, contributing to Frontend and Backend for building web applications with an eye for clean Aesthetics and optimal User Experience via intuitive design. I dedicate all my times for learning and studying I.T with the hope that I can work for your company and together we can make the world different!
 
-- :seedling: Through real project, I have gained valuable experience when working with clients, teammates by learning and implementing Agile Methodology. Github Kanban board, Git. I love working with people and I can can take initiative if needed.
+#### Specialize in: MongoDB, Express.js, React.js, Node.js
 
-- :zap: I understand CI/CD pipelines and have practiced code reviewings with others. Also knowing deployment on common platforms: Netlify, FireBase, Heroku, Github.
+Through real project, I have gained valuable experience when working with clients, teammates by learning and implementing Agile Methodology. Github Kanban board, Git. I love working with people and I can can take initiative if needed. I understand CI/CD pipelines and have practiced code reviewings with others. Also knowing deployment on common platforms: Netlify, FireBase, Heroku, Github. I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
 
-- :seedling: I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
+I am currently looking for an entry level web development position.
 
-- :zap: In my free time, especially sitting on the bus, I enjoy reading Tech articles to update new technologies.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinhNguyenKhanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhh-nguyen22/)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinhNguyenKhanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhh-nguyen22/)
 ---
 
 ### :hammer_and_wrench: Languages,Tools and Databases:
