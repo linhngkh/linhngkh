@@ -12,11 +12,13 @@ I’m a passionate developer, contributing to Frontend and Backend for building 
 
 #### Specialize in: MongoDB, Express.js, React.js, Node.js
 
-Through real project, I have gained valuable experience when working with clients, teammates by learning and implementing Agile Methodology. Github Kanban board, Git. I love working with people and I can can take initiative if needed. I understand CI/CD pipelines and have practiced code reviewings with others. Also knowing deployment on common platforms: Netlify, FireBase, Heroku, Github. I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
+Through real project, I have gained valuable experience when working with clients, teammates by learning and implementing Agile Methodology. Github Kanban board, Git.
 
-I am currently looking for an entry level web development position.
+I love working with people and I can can take initiative if needed. 
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinhNguyenKhanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhh-nguyen22/)
+I understand CI/CD pipelines and have practiced code reviewings with others. Also knowing deployment on common platforms: Netlify, FireBase, Heroku, Github. I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
+
+:mailbox:Looking for an entry level web development position => To reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinhNguyenKhanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhh-nguyen22/)
 ---
 
 ### :hammer_and_wrench: Languages,Tools and Databases:
