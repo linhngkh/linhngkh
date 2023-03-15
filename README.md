@@ -41,3 +41,5 @@ I understand CI/CD pipelines and have practiced code reviewings with others. Als
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40">&nbsp;
 
 </div>
+
+
