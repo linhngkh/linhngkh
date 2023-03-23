@@ -18,7 +18,7 @@ I love working with people and I can can take initiative if needed.
 
 I understand CI/CD pipelines and have practiced code reviewings with others. Also knowing deployment on common platforms: Netlify, FireBase, Heroku, Github. I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
 
-:mailbox:Looking for an entry level web development position => Reach Me on [![Linkedin Badge](https://img.shields.io/badge/-LinhNguyenKhanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhh-nguyen22/)
+:mailbox:Looking for an entry level web development position. Reach Me on [![Linkedin Badge](https://img.shields.io/badge/-LinhNguyenKhanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhh-nguyen22/)
 ---
 
 ### :hammer_and_wrench: Languages,Tools and Databases:
