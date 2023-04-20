@@ -4,7 +4,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=linh-nguyenkhanh.linh-nguyenkhanh" alt="visitors"/>   
 </div>
 
-## Hi buddy 👋. My name is Linh Nguyen. Shine bright like a diamond 💎
+## Hi buddy 👋. My name is Joey Linh Nguyen. Shine bright like a diamond 💎
 
 ### :woman_technologist: About Me : I am a Junior Front-End Focused Web Developer learning Full Stack <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
   
