@@ -4,7 +4,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=linh-nguyenkhanh.linh-nguyenkhanh" alt="visitors"/>   
 </div>
 
-## Hi buddy 👋. My name is Joey Linh Nguyen. Shine bright like a diamond 💎
+## Hi there 👋. My name is Joey Linh Nguyen. Shine bright like a diamond 💎
+
+#### Update:  I am learning MERN Stack and Typescript
 
 ### :woman_technologist: About Me : I am a Junior Front-End Focused Web Developer learning Full Stack <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
   
@@ -12,15 +14,13 @@
 
 #### Specialize in: MongoDB, Express.js, React.js, Node.js
 
-Through real project, I have gained valuable experience when working with clients, teammates by learning and implementing Agile Methodology. Github Kanban board, Git.
+ - Through real project, I have gained valuable experience when working with clients, teammates by learning and implementing Agile Methodology. Github Kanban board, Git. I love working with people and I can can take initiative if needed. 
 
-I love working with people and I can can take initiative if needed. 
+ - I understand CI/CD pipelines and have practiced code reviewings with others. Also knowing deployment on common platforms: Netlify, FireBase, Heroku, Github. I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
 
-I understand CI/CD pipelines and have practiced code reviewings with others. Also knowing deployment on common platforms: Netlify, FireBase, Heroku, Github. I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
+- I also love exploring many frontend React.js frameworks.
 
-I also love exploring many frontend React.js frameworks.
-
-:mailbox:Looking for an entry level web development position. Reach Me on [![Linkedin Badge](https://img.shields.io/badge/-LinhNguyenKhanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhh-nguyen22/)
+:mailbox: Looking for an entry level web development position. Reach Me on [![Linkedin Badge](https://img.shields.io/badge/-LinhNguyenKhanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhh-nguyen22/)
 ---
 
 ### :hammer_and_wrench: Languages,Tools and Databases:
