@@ -1,7 +1,7 @@
 <!--   my-icons -->
 <div align="center">    
 <img src="https://visitor-badge.laobi.icu/badge?page_id=linh-nguyenkhanh.linh-nguyenkhanh" alt="visitors"/>   
-
+</div>
 
 ## Hi there 👋. My name is Joey Linh Nguyen. Shine bright like a diamond 💎
 
@@ -12,18 +12,18 @@
 ``I’m a passionate developer, contributing to Frontend and Backend for building software, web applications or app with an eye for clean Aesthetics and optimal User Experience via intuitive design. I dedicate all my times for learning and studying I.T with the hope that I can work for your company and together we can make the world different!``
 
 #### Specialize in: MongoDB, Express.js, React.js, Node.js
-
- - Through real project, I have gained valuable experience when working with clients, teammates by learning and implementing Agile Methodology. Github Kanban board, Git. I love working with people and I can can take initiative if needed. 
+<div>
+  - Through real project, I have gained valuable experience when working with clients, teammates by learning and implementing Agile Methodology. Github Kanban board, Git. I love working with people and I can can take initiative if needed. 
 
  - I understand CI/CD pipelines and have practiced code reviewings with others. Also knowing deployment on common platforms: Netlify, FireBase, Heroku, Github. I have some knowledges and experience about UserInterface, Figma and Adobe XD design tools.
 
-- I also love exploring many frontend React.js frameworks.
+- i am learning day by day and also love exploring many frontend React.js frameworks.</div>
 
 :mailbox: Looking for an entry level web development position. Reach Me on [![Linkedin Badge](https://img.shields.io/badge/-LinhNguyenKhanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhh-nguyen22/)
 ---
 
 ### :hammer_and_wrench: Languages,Tools and Databases:
-<div>
+<div align="start">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
