@@ -3,13 +3,13 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=linh-nguyenkhanh.linh-nguyenkhanh" alt="visitors"/>   
 </div>
 
-## Hi there 👋. My name is Joey Linh Nguyen. Shine bright like a diamond 💎
+## Hi there 👋. My name is Joey Linh Nguyen
 
 #### <div>
   <a href="https://github.com/linh-nguyenkhanh"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a> I am learning depper in MERN Stack, Next.js FullStack and ofc Typescript.
 </div>
 
-### :woman_technologist: About Me : I am a Junior Front-End Focused Web Developer learning Full Stack <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
+### :woman_technologist: About Me : I am a Front-End Focused Web Developer learning Full Stack <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
   
 ``I’m a passionate developer, contributing to Frontend and Backend for building software, web applications or app with an eye for clean Aesthetics and optimal User Experience via intuitive design. I dedicate all my times for learning and studying I.T with the hope that I can work for your company and together we can make the world different!``
 
