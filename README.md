@@ -21,7 +21,7 @@
 
 - i am learning day by day and also love exploring many frontend React.js frameworks.</div>
 
-:mailbox: Reach Me on [![Linkedin Badge](https://img.shields.io/badge/-LinhNguyenKhanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zoe0209/)
+:mailbox: Reach Me on [![Linkedin Badge](https://img.shields.io/badge/-ZOE-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zoe0209/)
 ---
 
 ### :hammer_and_wrench: Languages,Tools and Databases:
