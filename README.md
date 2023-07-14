@@ -15,7 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhngkh&size_weight=0.5&count_weight=0.5)
 
-#### Specialize in: MongoDB, Express.js, React.js, Node.js, Next.js FullStack
+
 
 
 
