@@ -6,7 +6,7 @@
 ## Hi there 👋. My name is Zoe Linh Nguyen
  :mailbox: Reach Me on [![Linkedin Badge](https://img.shields.io/badge/-ZOE-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zoe0209/)
 #### <div>
-  <a href="https://github.com/linh-nguyenkhanh"><img src="https://img.shields.io/badge/status-studying-brightgreen.svg"></a> I am learning any technologies related to Web Developments.
+  <a href="https://github.com/linh-nguyenkhanh"><img src="https://img.shields.io/badge/status-studying-brightgreen.svg"></a> I am excited to learn any technologies related to Web Developments.
 </div>
 
 ### :woman_technologist: About Me : I am a Front-End Focused Web Developer learning Full Stack <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
