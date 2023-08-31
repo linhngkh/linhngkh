@@ -13,7 +13,7 @@
   
 ``I’m a developer, contributing to Frontend and Backend for building software, web applications with an eye for clean aesthetics and optimal UX/UI designs via intuitive design. I dedicate all my times for learning and practicing coding with the hope that I can work for your company and together we can make the world different!``
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhngkh&size_weight=0.5&count_weight=0.5)
+
 
 
 
