@@ -11,7 +11,7 @@
 
 ### :woman_technologist: About Me : I am a Front-End Focused Web Developer learning Full Stack <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
   
-``I’m a developer, contributing to Frontend and Backend for building software, web applications with an eye for clean aesthetics and optimal UX/UI designs via intuitive design. I dedicate all my times for learning and practicing coding with the hope that I can work for your company and together we can make the world different!``
+``I’m a developer, contributing to Frontend and a little bit of Backend for building software, web applications with an eye for clean aesthetics and optimal UX/UI designs via simple, intuitive design. I dedicate all my times for learning and practicing coding with the hope that I can work for your company and together we can make the world different!``
 
 
 
